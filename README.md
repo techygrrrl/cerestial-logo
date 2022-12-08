@@ -1,5 +1,7 @@
 # CeRESTial
 
+For https://hg.sr.ht/~grim/cerestial
+
 ## Background
 
 ![](background/cerestrial-logo.svg)
