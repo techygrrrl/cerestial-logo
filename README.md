@@ -2,22 +2,47 @@
 
 For https://hg.sr.ht/~grim/cerestial
 
-## Background
+## Yellow
 
-![](background/cerestrial-logo.svg)
+### Background
 
-![](background/cerestrial-logo.png)
+![](yellow/background/cerestrial-logo.svg)
 
-![](background/cerestrial-logo@2x.png)
+![](yellow/background/cerestrial-logo.png)
 
-![](background/cerestrial-logo@3x.png)
+![](yellow/background/cerestrial-logo@2x.png)
 
-## Transparent
+![](yellow/background/cerestrial-logo@3x.png)
 
-![](transparent/cerestrial-logo.svg)
+### Transparent
 
-![](transparent/cerestrial-logo.png)
+![](yellow/transparent/cerestrial-logo.svg)
 
-![](transparent/cerestrial-logo@2x.png)
+![](yellow/transparent/cerestrial-logo.png)
 
-![](transparent/cerestrial-logo@3x.png)
+![](yellow/transparent/cerestrial-logo@2x.png)
+
+![](yellow/transparent/cerestrial-logo@3x.png)
+
+
+## Blue
+
+### Background
+
+![](blue/background/cerestrial-logo.svg)
+
+![](blue/background/cerestrial-logo.png)
+
+![](blue/background/cerestrial-logo@2x.png)
+
+![](blue/background/cerestrial-logo@3x.png)
+
+### Transparent
+
+![](blue/transparent/cerestrial-logo.svg)
+
+![](blue/transparent/cerestrial-logo.png)
+
+![](blue/transparent/cerestrial-logo@2x.png)
+
+![](blue/transparent/cerestrial-logo@3x.png)
